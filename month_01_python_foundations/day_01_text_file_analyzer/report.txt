@@ -1,0 +1,5 @@
+Text File Analysis Report
+--------------------------
+Total lines (non-empty): 3
+Total words: 13
+Total characters (no spaces): 71

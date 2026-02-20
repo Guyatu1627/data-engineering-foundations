@@ -1,3 +1,17 @@
 2026-02-19 09:10:02,250 | INFO | Pipeline Started
 2026-02-19 09:10:02,250 | INFO | Environment: dev
 2026-02-19 09:10:02,250 | INFO | Pipeline Finished Successfully
+2026-02-20 09:47:38,328 | INFO | Pipeline Started
+2026-02-20 09:47:38,328 | INFO | Environment: dev
+2026-02-20 09:47:38,328 | INFO | Pipeline Finished Successfully
+2026-02-20 09:47:54,150 | INFO | Pipeline Started
+2026-02-20 09:47:54,150 | INFO | Environment: dev
+2026-02-20 09:47:54,157 | INFO | Pipeline Finished Successfully
+2026-02-20 09:51:34,846 | INFO | Pipeline Started
+2026-02-20 09:51:34,846 | INFO | Environment: dev
+2026-02-20 09:51:34,846 | INFO | Pipeline Finished Successfully
+2026-02-20 09:51:34,848 | INFO | Ingested 10 rows into raw layer
+2026-02-20 09:52:50,758 | INFO | Pipeline Started
+2026-02-20 09:52:50,758 | INFO | Environment: dev
+2026-02-20 09:52:50,758 | INFO | Pipeline Finished Successfully
+2026-02-20 09:52:50,758 | INFO | File already ingested - skipping

@@ -2,6 +2,7 @@ import logging
 import os
 from dotenv import load_dotenv
 from pathlib import Path
+from ingestion.ingest_raw import ingest
 
 # load environoment variable
 load_dotenv("configs/.env")
@@ -23,6 +24,7 @@ def main():
     logger.info("Pipeline Started")
     logger.info(f"Environment: {os.getenv('Env')}")
     logger.info("Pipeline Finished Successfully")
+    ingest()
 
 if __name__ == "__main__":
     main()

@@ -1,0 +1,11 @@
+id,name,department,salary,age,city
+1,Abel,IT,9000,26,Addis
+2,Hana,HR,6000,31,Adama
+3,Sami,IT,11000,29,Addis
+4,Ruth,Finance,7500,35,BahirDar
+5,Kaleab,IT,5000,23,Hawassa
+6,Mahi,HR,,28,Addis
+7,John,Finance,12000,41,Addis
+7,John,Finance,12000,41,Addis
+8,Sara,IT,7200,27,Adama
+9,BrokenRow
